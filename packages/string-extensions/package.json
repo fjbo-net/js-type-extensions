@@ -1,0 +1,30 @@
+{
+	"name": "@fjbo-net/string-extensions",
+	"version": "0.1.0",
+	"description": "String extension methods.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Francisco Javier Becerra-Ortiz",
+	"license": "MIT",
+	"devDependencies": {
+		"del": "^5.1.0",
+		"gulp": "^4.0.2",
+		"gulp-header": "^2.0.9"
+	},
+	"year": 2019,
+	"dependencies": {
+		"@fjbo-net/merge-objects": "^0.2.0"
+	},
+	"keywords": [
+		"string",
+		"str",
+		"extension",
+		"methods",
+		"toCamelCase",
+		"polyfill",
+		"camel",
+		"case"
+	]
+}

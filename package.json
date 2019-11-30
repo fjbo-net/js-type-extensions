@@ -1,0 +1,26 @@
+{
+  "name": "@fjbo-net/type-extensions",
+  "version": "0.1.0",
+  "description": "Development package for Javascript type extension methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjbo-net/js-type-extensions.git"
+  },
+  "author": "Francisco Javier Becerra-Ortiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fjbo-net/js-type-extensions/issues"
+  },
+  "homepage": "https://github.com/fjbo-net/js-type-extensions#readme",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-header": "^2.0.9",
+    "gulp-jsbeautifier": "^3.0.1",
+    "gulp-strip-comments": "^2.5.2"
+  }
+}
