@@ -1,13 +1,24 @@
 {
 	"name": "@fjbo-net/string-extensions",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "String extension methods.",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "Francisco Javier Becerra-Ortiz",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fjbo-net/js-type-extensions.git"
+	},
+	"author": {
+		"name": "Francisco Javier Becerra-Ortiz",
+		"url": "https://github.com/fjbo-net/"
+	},
 	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/fjbo-net/js-type-extensions/issues"
+	},
+	"homepage": "https://github.com/fjbo-net/js-type-extensions/tree/master/packages/string-extensions#readme",
 	"devDependencies": {
 		"del": "^5.1.0",
 		"gulp": "^4.0.2",
